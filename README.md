@@ -1,2 +1,2 @@
 # Python
-Data Transformation with Python using Pandas
+Transforming data with Python using Pandas,psycopg2,Matplotlib and numpy
