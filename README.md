@@ -1,17 +1,13 @@
 # Python
-Transforming and visualizing data with Python using:
+- Data transformation and visualization with Python 
 
--Pandas
-
--psycopg2
-
--Matplotlib 
-
--numpy
-
--Seaborn
-
--folium
+#Python libraries used:
+- pandas
+- psycopg2
+- matplotlib 
+- numpy
+- seaborn
+- folium
 
 # Data Transformation
 
