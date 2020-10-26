@@ -1,7 +1,7 @@
 # Python
 - Data transformation and visualization with Python 
 
-#Python libraries used:
+# Python libraries used:
 - pandas
 - psycopg2
 - matplotlib 
