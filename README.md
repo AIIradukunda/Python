@@ -10,7 +10,7 @@
 - numpy
 - seaborn
 - folium
-- Sklearn
+- Scikit-Learn
 
 
 # Data Transformation
