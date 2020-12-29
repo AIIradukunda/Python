@@ -1,5 +1,7 @@
-# Python
-- Data transformation and visualization with Python 
+# Python Projects 
+- Data transformation 
+- Data visualization
+- Simple Regression Analysis
 
 # Python libraries used:
 - pandas
