@@ -1,7 +1,8 @@
 # Projects 
 - Data transformation 
 - Data visualization
-- Simple Regression Analysis
+- Simple Linear Regression Analysis
+- Multiple Linear Regression
 
 # Python libraries used:
 - pandas
@@ -24,3 +25,5 @@ https://github.com/AIIradukunda/Python/blob/main/Data_visualization_with_Python.
 # Data Processing & Linear Simple Regression Analysis
 https://github.com/AIIradukunda/Python/blob/main/data_processing_linearRegression.ipynb
 
+# Multiple Linear Regression
+https://github.com/AIIradukunda/Python_projects/blob/main/multiple_linear_regression.ipynb
