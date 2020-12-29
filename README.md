@@ -8,6 +8,8 @@
 - numpy
 - seaborn
 - folium
+- Sklearn
+
 
 # Data Transformation
 
@@ -15,3 +17,7 @@ https://github.com/AIIradukunda/Python/blob/main/datatransformation-checkpoint.i
 
 # Data Visualization
 https://github.com/AIIradukunda/Python/blob/main/Data_visualization_with_Python.ipynb
+
+
+# Data Processing & Linear Simple Regression Analysis
+
