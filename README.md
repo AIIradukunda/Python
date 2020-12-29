@@ -1,4 +1,4 @@
-# Python Projects 
+# Projects 
 - Data transformation 
 - Data visualization
 - Simple Regression Analysis
