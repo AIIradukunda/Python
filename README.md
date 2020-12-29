@@ -20,4 +20,5 @@ https://github.com/AIIradukunda/Python/blob/main/Data_visualization_with_Python.
 
 
 # Data Processing & Linear Simple Regression Analysis
+https://github.com/AIIradukunda/Python/blob/main/data_processing_linearRegression.ipynb
 
